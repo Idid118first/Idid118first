@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnav Roy</h1>
-<h3 align="center">A computer science student at UTD</h3>
+<h3 align="center">A dean's list & AES computer science student at UTD</h3>
 
 - 🔭 I’m currently working on [Quila](https://www.quila.app)
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 I’m currently learning **C++ and PyTorch**
 
-- 💬 Ask me about **Python, PyTorch, Java**
+- 💬 Ask me about **Python, PyTorch, AWS, Java, AI, RAG**
 
 - 📫 How to reach me **Arnavroy2006@gmail.com**
 
