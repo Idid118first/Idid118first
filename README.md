@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnav Roy</h1>
-<h3 align="center">A dean's list & AES computer science student at UTD</h3>
+<h3 align="center">Studying Computer Science and Mathematics at NYU Courant</h3>
 
 - 🔭 I’m currently working on [Quila](https://www.quila.app)
 
